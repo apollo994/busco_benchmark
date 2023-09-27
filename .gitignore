@@ -1,5 +1,6 @@
 data/
 genomes/
 protein_sequences/
+.ipynb_checkpoints
+raw_results
 
-.ipynb_checkpoints/
