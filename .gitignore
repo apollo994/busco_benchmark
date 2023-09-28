@@ -1,6 +1,7 @@
 data/
 genomes/
 protein_sequences/
-.ipynb_checkpoints
 raw_results
-
+busco_downloads/
+data
+ipynb_checkpoints
