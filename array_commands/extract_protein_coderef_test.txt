@@ -1,0 +1,1 @@
+/nfs/users/rg/fzanarello/projects/busco_benchmark/scripts/get_protein_from_gff.sh /users/rg/fzanarello/test/geneidx/output/species/158456/Betta_splendens.gff3 /nfs/users/rg/fzanarello/projects/busco_benchmark/genomes/Betta_splendens.fBetSpl5.2.dna_rm.toplevel.fa /users/rg/fzanarello/test/geneidx/output/species/158456/proteins 
