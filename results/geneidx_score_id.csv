@@ -1,0 +1,106 @@
+species,taxonID,score,species_space
+amphiprion_percula,161767,0.529,Amphiprion percula
+anabas_testudineus,64144,0.503,Anabas testudineus
+anas_platyrhynchos,8839,0.516,Anas platyrhynchos
+anser_brachyrhynchus,132585,0.585,Anser brachyrhynchus
+anser_cygnoides,8845,0.5760000000000001,Anser cygnoides
+apteryx_haastii,8823,0.5539999999999999,Apteryx haastii
+apteryx_rowi,308060,0.555,Apteryx rowi
+aquila_chrysaetos_chrysaetos,223781,0.573,Aquila chrysaetos chrysaetos
+astatotilapia_calliptera,8154,0.498,Astatotilapia calliptera
+astyanax_mexicanus,7994,0.431,Astyanax mexicanus
+athene_cunicularia,194338,0.503,Athene cunicularia
+balaenoptera_musculus,9771,0.6679999999999999,Balaenoptera musculus
+betta_splendens,158456,0.49200000000000005,Betta splendens
+bos_grunniens,30521,0.675,Bos grunniens
+bos_taurus,9913,0.6859999999999999,Bos taurus
+cairina_moschata_domestica,1240228,0.5710000000000001,Cairina moschata domestica
+calidris_pugnax,198806,0.584,Calidris pugnax
+camarhynchus_parvulus,87175,0.546,Camarhynchus parvulus
+canis_lupus_dingo,286419,0.645,Canis lupus dingo
+canis_lupus_familiaris,9615,0.706,Canis lupus familiaris
+catharus_ustulatus,91951,0.565,Catharus ustulatus
+cavia_aperea,37548,0.4,Cavia aperea
+cavia_porcellus,10141,0.7140000000000001,Cavia porcellus
+chinchilla_lanigera,34839,0.736,Chinchilla lanigera
+chlorocebus_sabaeus,60711,0.743,Chlorocebus sabaeus
+clupea_harengus,7950,0.331,Clupea harengus
+corvus_moneduloides,1196302,0.5760000000000001,Corvus moneduloides
+cottoperca_gobio,56716,0.44,Cottoperca gobio
+coturnix_japonica,93934,0.601,Coturnix japonica
+crocodylus_porosus,8502,0.517,Crocodylus porosus
+cyclopterus_lumpus,8103,0.451,Cyclopterus lumpus
+danio_rerio,7955,0.42100000000000004,Danio rerio
+denticeps_clupeoides,299321,0.45299999999999996,Denticeps clupeoides
+dicentrarchus_labrax,13489,0.478,Dicentrarchus labrax
+dromaius_novaehollandiae,8790,0.544,Dromaius novaehollandiae
+echeneis_naucrates,173247,0.469,Echeneis naucrates
+equus_caballus,9796,0.696,Equus caballus
+erpetoichthys_calabaricus,27687,0.39,Erpetoichthys calabaricus
+esox_lucius,8010,0.42100000000000004,Esox lucius
+felis_catus,9685,0.653,Felis catus
+gadus_morhua,8049,0.32899999999999996,Gadus morhua
+gallus_gallus,9031,0.591,Gallus gallus
+gambusia_affinis,33528,0.49700000000000005,Gambusia affinis
+gasterosteus_aculeatus,69293,0.544,Gasterosteus aculeatus
+gopherus_evgoodei,1825980,0.563,Gopherus evgoodei
+gouania_willdenowi,441366,0.409,Gouania willdenowi
+homo_sapiens,9606,0.748,Homo sapiens
+junco_hyemalis,40217,0.517,Junco hyemalis
+kryptolebias_marmoratus,37003,0.518,Kryptolebias marmoratus
+lepidothrix_coronata,321398,0.57,Lepidothrix coronata
+lepisosteus_oculatus,7918,0.523,Lepisosteus oculatus
+lonchura_striata_domestica,299123,0.574,Lonchura striata domestica
+loxodonta_africana,9785,0.685,Loxodonta africana
+lynx_canadensis,61383,0.632,Lynx canadensis
+macaca_fascicularis,9541,0.667,Macaca fascicularis
+macaca_mulatta,9544,0.693,Macaca mulatta
+malurus_cyaneus_samueli,2593467,0.539,Malurus cyaneus samueli
+mastacembelus_armatus,205130,0.46799999999999997,Mastacembelus armatus
+maylandia_zebra,106582,0.514,Maylandia zebra
+mus_caroli,10089,0.715,Mus caroli
+mus_musculus,10090,0.691,Mus musculus
+mus_pahari,10093,0.718,Mus pahari
+myripristis_murdjan,586833,0.43799999999999994,Myripristis murdjan
+naja_naja,35670,0.436,Naja naja
+neogobius_melanostomus,47308,0.4,Neogobius melanostomus
+nothoprocta_perdicaria,30464,0.54,Nothoprocta perdicaria
+numida_meleagris,8996,0.5720000000000001,Numida meleagris
+oncorhynchus_kisutch,8019,0.444,Oncorhynchus kisutch
+oreochromis_niloticus,8128,0.522,Oreochromis niloticus
+ornithorhynchus_anatinus,9258,0.5770000000000001,Ornithorhynchus anatinus
+oryctolagus_cuniculus,9986,0.679,Oryctolagus cuniculus
+oryzias_javanicus,123683,0.48100000000000004,Oryzias javanicus
+oryzias_latipes,8090,0.47,Oryzias latipes
+panthera_tigris_altaica,74533,0.584,Panthera tigris altaica
+parambassis_ranga,210632,0.505,Parambassis ranga
+paramormyrops_kingsleyae,1676925,0.498,Paramormyrops kingsleyae
+parus_major,9157,0.552,Parus major
+phascolarctos_cinereus,38626,0.573,Phascolarctos cinereus
+phocoena_sinus,42100,0.667,Phocoena sinus
+podarcis_muralis,64176,0.58,Podarcis muralis
+poecilia_formosa,48698,0.561,Poecilia formosa
+poecilia_reticulata,8081,0.47100000000000003,Poecilia reticulata
+pongo_abelii,9601,0.6729999999999999,Pongo abelii
+rattus_norvegicus,10116,0.7120000000000001,Rattus norvegicus
+rhinolophus_ferrumequinum,59479,0.667,Rhinolophus ferrumequinum
+saimiri_boliviensis_boliviensis,39432,0.662,Saimiri boliviensis boliviensis
+salarias_fasciatus,181472,0.522,Salarias fasciatus
+salmo_trutta,8032,0.445,Salmo trutta
+sander_lucioperca,283035,0.47600000000000003,Sander lucioperca
+sarcophilus_harrisii,9305,0.55,Sarcophilus harrisii
+sciurus_vulgaris,55149,0.667,Sciurus vulgaris
+scleropages_formosus,113540,0.523,Scleropages formosus
+scophthalmus_maximus,52904,0.475,Scophthalmus maximus
+sparus_aurata,8175,0.513,Sparus aurata
+sphaeramia_orbicularis,375764,0.47200000000000003,Sphaeramia orbicularis
+strigops_habroptila,2489341,0.594,Strigops habroptila
+sus_scrofa,9823,0.67,Sus scrofa
+taeniopygia_guttata,59729,0.564,Taeniopygia guttata
+takifugu_rubripes,31033,0.489,Takifugu rubripes
+tetraodon_nigroviridis,99883,0.478,Tetraodon nigroviridis
+varanus_komodoensis,61221,0.589,Varanus komodoensis
+xiphophorus_couchianus,32473,0.409,Xiphophorus couchianus
+xiphophorus_maculatus,8083,0.495,Xiphophorus maculatus
+zalophus_californianus,9704,0.649,Zalophus californianus
+zosterops_lateralis_melanops,1220523,0.46,Zosterops lateralis melanops

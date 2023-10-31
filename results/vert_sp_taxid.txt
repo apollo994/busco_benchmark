@@ -1,0 +1,105 @@
+Amphiprion percula	161767
+Anabas testudineus	64144
+Anas platyrhynchos	8839
+Anser brachyrhynchus	132585
+Anser cygnoides	8845
+Apteryx haastii	8823
+Apteryx rowi	308060
+Aquila chrysaetos chrysaetos	223781
+Astatotilapia calliptera	8154
+Astyanax mexicanus	7994
+Athene cunicularia	194338
+Balaenoptera musculus	9771
+Betta splendens	158456
+Bos grunniens	30521
+Bos taurus	9913
+Cairina moschata domestica	1240228
+Calidris pugnax	198806
+Camarhynchus parvulus	87175
+Canis lupus dingo	286419
+Canis lupus familiaris	9615
+Catharus ustulatus	91951
+Cavia aperea	37548
+Cavia porcellus	10141
+Chinchilla lanigera	34839
+Chlorocebus sabaeus	60711
+Clupea harengus	7950
+Corvus moneduloides	1196302
+Cottoperca gobio	56716
+Coturnix japonica	93934
+Crocodylus porosus	8502
+Cyclopterus lumpus	8103
+Danio rerio	7955
+Denticeps clupeoides	299321
+Dicentrarchus labrax	13489
+Dromaius novaehollandiae	8790
+Echeneis naucrates	173247
+Equus caballus	9796
+Erpetoichthys calabaricus	27687
+Esox lucius	8010
+Felis catus	9685
+Gadus morhua	8049
+Gallus gallus	9031
+Gambusia affinis	33528
+Gasterosteus aculeatus	69293
+Gopherus evgoodei	1825980
+Gouania willdenowi	441366
+Homo sapiens	9606
+Junco hyemalis	40217
+Kryptolebias marmoratus	37003
+Lepidothrix coronata	321398
+Lepisosteus oculatus	7918
+Lonchura striata domestica	299123
+Loxodonta africana	9785
+Lynx canadensis	61383
+Macaca fascicularis	9541
+Macaca mulatta	9544
+Malurus cyaneus samueli	2593467
+Mastacembelus armatus	205130
+Maylandia zebra	106582
+Mus caroli	10089
+Mus musculus	10090
+Mus pahari	10093
+Myripristis murdjan	586833
+Naja naja	35670
+Neogobius melanostomus	47308
+Nothoprocta perdicaria	30464
+Numida meleagris	8996
+Oncorhynchus kisutch	8019
+Oreochromis niloticus	8128
+Ornithorhynchus anatinus	9258
+Oryctolagus cuniculus	9986
+Oryzias javanicus	123683
+Oryzias latipes	8090
+Panthera tigris altaica	74533
+Parambassis ranga	210632
+Paramormyrops kingsleyae	1676925
+Parus major	9157
+Phascolarctos cinereus	38626
+Phocoena sinus	42100
+Podarcis muralis	64176
+Poecilia formosa	48698
+Poecilia reticulata	8081
+Pongo abelii	9601
+Rattus norvegicus	10116
+Rhinolophus ferrumequinum	59479
+Saimiri boliviensis boliviensis	39432
+Salarias fasciatus	181472
+Salmo trutta	8032
+Sander lucioperca	283035
+Sarcophilus harrisii	9305
+Sciurus vulgaris	55149
+Scleropages formosus	113540
+Scophthalmus maximus	52904
+Sparus aurata	8175
+Sphaeramia orbicularis	375764
+Strigops habroptila	2489341
+Sus scrofa	9823
+Taeniopygia guttata	59729
+Takifugu rubripes	31033
+Tetraodon nigroviridis	99883
+Varanus komodoensis	61221
+Xiphophorus couchianus	32473
+Xiphophorus maculatus	8083
+Zalophus californianus	9704
+Zosterops lateralis melanops	1220523
