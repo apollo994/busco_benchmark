@@ -1,0 +1,1 @@
+/users/rg/fzanarello/software/geneid/bin/geneid -3P /users/rg/fzanarello/software/geneid/param/Homo_sapiens.9606.param /users/rg/fzanarello/projects/geneidx/ebh23/genomes_gunzipped/GCA_951804385.1_drTriDubi3.1_genomic-masked.fa > /users/rg/fzanarello/projects/geneidx/ebh23/results/geneid/Trifolium_dubium_geneid.gff3 

@@ -4,4 +4,4 @@ protein_sequences/
 raw_results
 busco_downloads/
 data
-ipynb_checkpoints
+.ipynb_checkpoints
